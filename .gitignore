@@ -61,3 +61,5 @@ node_modules/
 # Other
 *.bak
 *.tmp
+
+# Backup files
