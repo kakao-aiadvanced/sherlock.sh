@@ -1,0 +1,63 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+.envrc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# System Files
+Thumbs.db
+Desktop.ini
+
+# Test output
+htmlcov/
+coverage.xml
+*.cover
+
+# Distribution / packaging
+.Python
+dist/
+build/
+egg-info/
+*.egg
+*.egg-info
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+
+# Other
+*.bak
+*.tmp
